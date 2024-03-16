@@ -2,11 +2,14 @@
 
 This tool allows you to create and edit your own supercut videos using only code, leveraging powerful libraries and software like `yt-dlp`, `mpv`, `whisper.cpp`, and `FFmpeg`. Say goodbye to non-linear video editing and hello to the precision of code-driven supercuts!
 
-Another way to achieve this is through a great tool like [Videogrep](https://github.com/antiboredom/videogrep) which relies on [Moviepy](https://zulko.github.io/moviepy/). I've used those for years and wanted to build an alternative based on some of the great LLM-based transcription tools available now.
+Another way to achieve this is through a great tool like [Videogrep](https://github.com/antiboredom/videogrep) which relies on [Moviepy](https://zulko.github.io/moviepy/). I've used those for years and wanted to create an alternative for myself based on one of the great LLM-based transcription tools available now.
 
 [Here's an example](https://www.youtube.com/watch?v=h3QYCayLHtg):
 [![Britt's Republican Response](britt.png)](https://www.youtube.com/watch?v=h3QYCayLHtg)
 
+<a href="https://www.youtube.com/watch?v=h3QYCayLHtg">
+	<img src="britt.png" alt="Britt's Republican Response" width="550" height="392"/>
+</a>
 
 ## Requirements
 
