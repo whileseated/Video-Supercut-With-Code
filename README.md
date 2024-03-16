@@ -1,6 +1,11 @@
 # SuperCut Generator: Create Your Own Supercut Video
 
-Welcome to the SuperCut Generator project! This tool allows you to create your own supercut videos using only code, leveraging powerful libraries and software like `yt-dlp`, `mpv`, `whisper.cpp`, and `FFmpeg`. Say goodbye to manual video editing and hello to automated, code-driven supercuts!
+This tool allows you to create and edit your own supercut videos using only code, leveraging powerful libraries and software like `yt-dlp`, `mpv`, `whisper.cpp`, and `FFmpeg`. Say goodbye to non-linear video editing and hello to the precision of code-driven supercuts!
+
+Another way to achieve this is through a great tool like [Videogrep](https://github.com/antiboredom/videogrep) which relies on [Moviepy](https://zulko.github.io/moviepy/). I've used those for years and wanted to build an alternative based on some of the great LLM-based transcription tools available now.
+
+[Here's an example](https://www.youtube.com/watch?v=h3QYCayLHtg):
+![example image](britt.png)
 
 ## Requirements
 
