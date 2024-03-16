@@ -5,7 +5,8 @@ This tool allows you to create and edit your own supercut videos using only code
 Another way to achieve this is through a great tool like [Videogrep](https://github.com/antiboredom/videogrep) which relies on [Moviepy](https://zulko.github.io/moviepy/). I've used those for years and wanted to build an alternative based on some of the great LLM-based transcription tools available now.
 
 [Here's an example](https://www.youtube.com/watch?v=h3QYCayLHtg):
-![example image](britt.png)
+[![Britt's Republican Response](britt.png)](https://www.youtube.com/watch?v=h3QYCayLHtg)
+
 
 ## Requirements
 
