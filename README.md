@@ -109,4 +109,4 @@ python3 99_word_usage.py
 
 Congratulations! You've successfully created a supercut video using code. Experiment with different videos and phrases to create unique and personalized supercuts. Happy coding! 
 
-(Most of this markdown file (especially this last section) was written with [Markdown Maestro](https://chat.openai.com/g/g-hCcO6EWyp-markdown-maestro).)
+Most of this markdown file (especially this last section) was written with [Markdown Maestro](https://chat.openai.com/g/g-hCcO6EWyp-markdown-maestro).
