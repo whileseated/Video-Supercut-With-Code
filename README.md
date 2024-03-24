@@ -38,7 +38,7 @@ For `whisper.cpp` and `FFmpeg`, please follow the installation guides on their G
 Use `yt-dlp` to download your source video in the best available quality:
 
 ```bash
-yt-dlp -f bestvideo+bestaudio/best xfKCWMG4O0I -o video/britt_1080.mp4
+yt-dlp -f 'bestvideo[ext=mp4]+bestaudio[ext=m4a]/mp4' --merge-output-format mp4 xfKCWMG4O0I -o video/britt_1080.mp4
 ```
 
 ### Step 1: Extract Audio for Transcription
